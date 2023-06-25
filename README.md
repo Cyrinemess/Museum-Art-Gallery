@@ -1,4 +1,3 @@
-# Museum Art Gallery
 # Art Gallery Preview
 ![home1](https://github.com/Cyrinemess/Museum-Art-Gallery/assets/102186127/73a9672c-f1ae-4c7d-b901-328433f2c3a8)
 ![home2](https://github.com/Cyrinemess/Museum-Art-Gallery/assets/102186127/dc4d8bc7-30e8-424c-b518-21ecadb282f0)
